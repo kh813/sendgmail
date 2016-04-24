@@ -21,14 +21,14 @@ Here's the list of command line options
 
 ```
 Usage of ./sendgmail:
-  -c="": -c 'mail cc'
-  -f="": -f 'mail from'
-  -g="": -g 'Gmail account email is sent from'
-  -p="": -p 'Gmail password'
-  -q=false: -q Quiet
-  -rm=false: -rm Raw mode
-  -s="": -s 'subject'
-  -t="": -t 'mail to'
+  -c 'mail cc'
+  -f 'mail from'
+  -g 'Gmail account email is sent from'
+  -p 'Gmail password'
+  -rm Raw mode
+  -s 'subject'
+  -t 'mail to'
+  -v Verbose
 ```
 
 ## Raw mode 
