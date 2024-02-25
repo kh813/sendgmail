@@ -1,5 +1,7 @@
 # sendgmail -- CLI tool to send email via Gmail
 
+**This is no longer maintainted** 
+
 ## For what? 
 
 Sending alert by Email is useful, but there're servers without root/sudo previledge. 
